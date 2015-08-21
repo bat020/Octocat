@@ -1,1 +1,8 @@
-Explain what a branch is, in your own words
+branch
+
+Any changes made to code in a repository take place on a particular branch,
+initially the master branch. Creating a new branch allows the coder to insulate
+any changes from other branches. Alternative solutions can be trialled this way,
+or distinct and independent update tasks parcelled between different team members.
+Branches can later be merged back together, or back into the master, providing
+of course that the changes made on them are compatible with each other.
