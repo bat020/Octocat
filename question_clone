@@ -1,1 +1,7 @@
-Explain what git clone does, in your own words
+git clone [location]
+
+This finds the repository at [location], either locally or on a remote site 
+such as github. It then creates a directory with that name, and copies the 
+repository into that directory. It leaves the original repository intact and
+creates a fresh one in the new location. The original repository is tagged
+as a remote called 'origin'.
