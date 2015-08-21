@@ -1,1 +1,7 @@
-Explain what the "upstream" remote is usually used for, in your own words
+"upstream" remote
+
+The "upstream" remote is a repository, typically on a server or a site such
+as github, that serves as a common or public store for the coding project.
+Often several collaborators will update changes they have made locally to
+the common remote repository. Conversely, changes made on the upstream remote
+can be pulled back down to the local machine to be worked upon.
